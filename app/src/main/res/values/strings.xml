@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ES_Movil</string>
+    <string name="identificar">Identifiquese:</string>
+    <string name="grupotxt">Ingrese el grupo de clases</string>
+    <string name="salontxt">Ingrese el salon de clases</string>
+    <string name="botonescaneartxt">Escanear asistencia</string>
+</resources>
